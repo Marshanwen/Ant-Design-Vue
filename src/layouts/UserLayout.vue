@@ -1,8 +1,10 @@
 <template>
   <div>
-    <div>登录页</div>
+    <div class="desc">Ant Design Vue</div>
+    <router-view></router-view>
   </div>
 </template>
+
 <script>
 export default {};
 </script>

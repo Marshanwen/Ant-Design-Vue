@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>登录页</div>
+    SiderMenu侧边栏
   </div>
 </template>
 <script>

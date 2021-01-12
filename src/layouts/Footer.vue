@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>登录页</div>
+    Ant Design Vue ©2021 Created by Ant Mars-Hanwen
   </div>
 </template>
 <script>

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>登录页</div>
+    第二步
   </div>
 </template>
 <script>
